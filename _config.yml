@@ -1,0 +1,8 @@
+# Site settings
+title: "Veritos"
+email:
+description: "Verification for all"
+baseurl: "/" # the subpath of your site, e.g. /blog/
+
+# Build settings
+markdown: kramdown
