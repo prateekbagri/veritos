@@ -1,6 +1,6 @@
 # Site settings
 title: "Veritos"
-email:
+email: "prateekbagri@gmail.com"
 description: "Verification for all"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 
